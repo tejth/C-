@@ -1,4 +1,8 @@
  
+
+https://github.com/user-attachments/assets/98b8764f-5a5c-49bd-9c22-a23beb567b0e
+
+
 # Flask App with MySQL Docker Setup
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
