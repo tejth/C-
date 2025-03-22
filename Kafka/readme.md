@@ -23,6 +23,11 @@ docker run -p 9092:9092 \
 -e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 \
 confluentinc/cp-kafka
 ```
+
+![1](https://github.com/user-attachments/assets/52527b05-4127-432c-9351-eaad99107ad9)
+
+
+
 ## Code
 `client.js`
 ```js
